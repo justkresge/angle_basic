@@ -1,0 +1,81 @@
+{:uriI"}file://app/assets/i18n/site-en.json?type=application/json&id=17fbb91d46d9bdfafe0f1fe488c66ab5dda80630b59d429077df0117718eaf74:ET:load_pathI"app/assets/i18n;T:filenameI"!app/assets/i18n/site-en.json;T:	nameI"site-en;T:logical_pathI"site-en.json;T:content_typeI"application/json;T:sourceI"F{
+  "dashboard": {
+    "WELCOME": "Welcome to Angle!"
+  },
+  "sidebar": {
+    "WELCOME": "Welcome",
+    "heading": {
+      "HEADER": "Main Navigation",
+      "COMPONENTS": "Components",
+      "MORE": "More"
+    },
+    "nav": {
+      "DASHBOARD": "Dashboard",
+      "WIDGETS": "Widgets",
+      "DOCUMENTATION": "Documentation",
+      "element": {
+        "ELEMENTS": "Elements",
+        "BUTTON": "Button",
+        "COLOR": "Colors",
+        "NOTIFICATION": "Notification",
+        "CAROUSEL": "Carousel",
+        "SPINNER": "Spinner",
+        "ANIMATION": "Animation",
+        "DROPDOWN": "Dropdown",
+        "PANEL": "Panel",
+        "PORTLET": "Portlet",
+        "GRID": "Grid",
+        "GRID_MASONRY": "Grid Masonry",
+        "TYPO": "Typography",
+        "FONT_ICON": "Font Icons",
+        "WEATHER_ICON": "Weather Icons"
+      },
+      "form": {
+        "FORM": "Forms",
+        "STANDARD": "Standard",
+        "EXTENDED": "Extended",
+        "VALIDATION": "Validation"
+      },
+      "chart": {
+        "CHART": "Charts",
+        "FLOT": "Flot",
+        "RADIAL": "Radial"
+      },
+      "table": {
+        "TABLE": "Table",
+        "STANDARD": "Standard",
+        "EXTENDED": "Extended",
+        "DATATABLE": "Datatable"
+      },
+      "map": {
+        "MAP": "Maps",
+        "GOOGLE": "Google Map",
+        "VECTOR": "Vector Map"
+      },
+      "extra": {
+        "EXTRA": "Extras",
+        "MAILBOX": "Mailbox",
+        "TIMELINE": "Timeline",
+        "CALENDAR": "Calendar",
+        "INVOICE": "Invoice",
+        "SEARCH": "Search",
+        "TODO": "Todo List",
+        "PROFILE": "Profile"
+      },
+      "pages": {
+        "PAGES": "Pages",
+        "LOGIN": "Login",
+        "REGISTER": "Register",
+        "RECOVER": "Recover password",
+        "PROFILE": "Profile",
+        "LOCK": "Lock",
+        "STARTER": "Starter Template"
+      }
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"/file-digest://app/assets/i18n/site-en.json;TTF:charsetI"
+utf-8;F:digest"%ô€±¹Ò¸šs}¾ñÆÏÛ9kC°»æG»¾ý…	&÷“ž:lengthiF:dependencies_digest"%:5&×^Rq•RÏØ8Ë¶Q¹’Óws½'gœÜyo®:idI"E17fbb91d46d9bdfafe0f1fe488c66ab5dda80630b59d429077df0117718eaf74;F:
+mtimel+[hŒY

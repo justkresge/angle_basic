@@ -1,0 +1,425 @@
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:07:12 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:07:12 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (214.4ms)
+Completed 500 Internal Server Error in 425ms
+
+
+  
+ActionView::Template::Error (couldn't find file 'modernizr/modernizr.custom' with type 'application/javascript'
+Checked in these paths: 
+  /home/ubuntu/projects/Angle/app/assets/api
+  /home/ubuntu/projects/Angle/app/assets/config
+  /home/ubuntu/projects/Angle/app/assets/documentation
+  /home/ubuntu/projects/Angle/app/assets/i18n
+  /home/ubuntu/projects/Angle/app/assets/images
+  /home/ubuntu/projects/Angle/app/assets/javascripts
+  /home/ubuntu/projects/Angle/app/assets/stylesheets
+  /home/ubuntu/projects/Angle/vendor/assets/images
+  /home/ubuntu/projects/Angle/vendor/assets/javascripts
+  /home/ubuntu/projects/Angle/vendor/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.3.4/gems/coffee-rails-4.2.1/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.3.4/gems/actioncable-5.1.0/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.3.4/gems/actionview-5.1.0/lib/assets/compiled
+  /home/ubuntu/projects/Angle/vendor/assets/bower_components
+  /home/ubuntu/projects/Angle/lib/assets/bower_components
+  /home/ubuntu/projects/Angle/vendor/assets/bower_components
+  /home/ubuntu/projects/Angle/node_modules):
+    203:                   <a href="#" class="list-group-item">
+    204:                      <div class="media-box">
+    205:                         <div class="pull-left">
+    206:                            <img src=<%= image_path("angle/user/02.jpg") %> alt="Image" class="media-box-object img-circle thumb32" />
+    207:                         </div>
+    208:                         <div class="media-box-body clearfix">
+    209:                            <small class="pull-right">2h</small>
+  
+app/assets/javascripts/base.js:5
+app/views/dashboard/dashboard_v1.html.erb:206:in `_app_views_dashboard_dashboard_v__html_erb__3008800893352687863_26248920'
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:07:24 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:07:24 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (9.8ms)
+Completed 500 Internal Server Error in 13ms
+
+
+  
+ActionView::Template::Error (couldn't find file 'modernizr/modernizr.custom' with type 'application/javascript'
+Checked in these paths: 
+  /home/ubuntu/projects/Angle/app/assets/api
+  /home/ubuntu/projects/Angle/app/assets/config
+  /home/ubuntu/projects/Angle/app/assets/documentation
+  /home/ubuntu/projects/Angle/app/assets/i18n
+  /home/ubuntu/projects/Angle/app/assets/images
+  /home/ubuntu/projects/Angle/app/assets/javascripts
+  /home/ubuntu/projects/Angle/app/assets/stylesheets
+  /home/ubuntu/projects/Angle/vendor/assets/images
+  /home/ubuntu/projects/Angle/vendor/assets/javascripts
+  /home/ubuntu/projects/Angle/vendor/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.3.4/gems/coffee-rails-4.2.1/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.3.4/gems/actioncable-5.1.0/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.3.4/gems/actionview-5.1.0/lib/assets/compiled
+  /home/ubuntu/projects/Angle/vendor/assets/bower_components
+  /home/ubuntu/projects/Angle/lib/assets/bower_components
+  /home/ubuntu/projects/Angle/vendor/assets/bower_components
+  /home/ubuntu/projects/Angle/node_modules):
+    203:                   <a href="#" class="list-group-item">
+    204:                      <div class="media-box">
+    205:                         <div class="pull-left">
+    206:                            <img src=<%= image_path("angle/user/02.jpg") %> alt="Image" class="media-box-object img-circle thumb32" />
+    207:                         </div>
+    208:                         <div class="media-box-body clearfix">
+    209:                            <small class="pull-right">2h</small>
+  
+app/assets/javascripts/base.js:5
+app/views/dashboard/dashboard_v1.html.erb:206:in `_app_views_dashboard_dashboard_v__html_erb__3008800893352687863_70196013601360'
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:11:44 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:11:44 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (14427.7ms)
+  Rendered layouts/partials/_topnavbar.html.erb (3.6ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (4.8ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (17.1ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.3ms) [cache miss]
+Completed 200 OK in 15076ms (Views: 15074.8ms)
+
+
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:11:59 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:11:59 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (12.1ms)
+  Rendered layouts/partials/_topnavbar.html.erb (2.6ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (5.3ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (30.2ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.4ms) [cache miss]
+Completed 200 OK in 260ms (Views: 259.4ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:02 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 4ms (Views: 3.6ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:02 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.5ms)
+Completed 200 OK in 4ms (Views: 3.8ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:02 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 3.1ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:02 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.5ms)
+Completed 200 OK in 4ms (Views: 4.3ms)
+
+
+Started GET "/maps/google" for 75.177.177.82 at 2017-08-10 14:12:44 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by MapsController#google as HTML
+  Rendering maps/google.html.erb within layouts/application
+  Rendered maps/google.html.erb within layouts/application (0.8ms)
+  Rendered layouts/partials/_topnavbar.html.erb (2.4ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (4.7ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (13.7ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.3ms) [cache miss]
+Completed 200 OK in 375ms (Views: 373.9ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:45 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 3.0ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:46 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.5ms)
+Completed 200 OK in 5ms (Views: 4.4ms)
+
+
+Started GET "/dashboard/dashboard_h" for 75.177.177.82 at 2017-08-10 14:12:50 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_h as HTML
+  Rendering dashboard/dashboard_h.html.erb within layouts/application-h
+  Rendered dashboard/dashboard_h.html.erb within layouts/application-h (8.2ms)
+  Rendered layouts/partials/_topnavbar_h.html.erb (2.5ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (13.1ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.3ms) [cache miss]
+Completed 200 OK in 216ms (Views: 215.5ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:50 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:51 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 3.1ms)
+
+
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:12:53 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (9.9ms)
+  Rendered layouts/partials/_topnavbar.html.erb (2.3ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (5.0ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (12.6ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.3ms) [cache miss]
+Completed 200 OK in 274ms (Views: 271.6ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:54 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:12:54 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 4ms (Views: 4.2ms)
+
+
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:15:14 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:15:14 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (9.7ms)
+  Rendered layouts/partials/_topnavbar.html.erb (3.1ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (5.9ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (18.3ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.6ms) [cache miss]
+Completed 200 OK in 311ms (Views: 308.1ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:15:15 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.6ms)
+Completed 200 OK in 4ms (Views: 3.6ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:15:15 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.6ms)
+Completed 200 OK in 6ms (Views: 5.3ms)
+
+
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:16:40 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:16:40 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (22.3ms)
+  Rendered layouts/partials/_topnavbar.html.erb (4.8ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (13.5ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (20.8ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.3ms) [cache miss]
+Completed 200 OK in 441ms (Views: 439.8ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:42 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.5ms)
+Completed 200 OK in 5ms (Views: 5.0ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:42 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+
+
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:16:48 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:16:48 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (5.6ms)
+  Rendered layouts/partials/_topnavbar.html.erb (2.5ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (5.0ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (15.9ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.3ms) [cache miss]
+Completed 200 OK in 295ms (Views: 293.9ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:48 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.5ms)
+Completed 200 OK in 4ms (Views: 3.8ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:48 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.5ms)
+Completed 200 OK in 4ms (Views: 4.1ms)
+
+
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:16:50 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:16:50 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (7.2ms)
+  Rendered layouts/partials/_topnavbar.html.erb (2.8ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (6.0ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (15.3ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.3ms) [cache miss]
+Completed 200 OK in 279ms (Views: 277.9ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:50 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 2.7ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:50 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 3.1ms)
+
+
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:16:51 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:16:51 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (11.4ms)
+  Rendered layouts/partials/_topnavbar.html.erb (3.1ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (8.4ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (13.3ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.3ms) [cache miss]
+Completed 200 OK in 329ms (Views: 327.8ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:52 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 2.7ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:52 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+
+
+Started GET "/" for 75.177.177.82 at 2017-08-10 14:16:53 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:16:53 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (5.4ms)
+  Rendered layouts/partials/_topnavbar.html.erb (2.1ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (3.9ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (11.6ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.4ms) [cache miss]
+Completed 200 OK in 213ms (Views: 212.4ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:54 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 5ms (Views: 4.7ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:16:54 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.5ms)
+Completed 200 OK in 3ms (Views: 3.2ms)
+
+

@@ -1,0 +1,81 @@
+{:uriI"}file://app/assets/i18n/site-es.json?type=application/json&id=d639e9619fbc4017a3dd45e9676c24201111289a306dc0fa9815eea22dd1a555:ET:load_pathI"app/assets/i18n;T:filenameI"!app/assets/i18n/site-es.json;T:	nameI"site-es;T:logical_pathI"site-es.json;T:content_typeI"application/json;T:sourceI"k{
+  "dashboard": {
+    "WELCOME": "Bienvenido a Angle"
+  },
+  "sidebar": {
+    "WELCOME": "Bienvenido",
+    "heading": {
+      "HEADER": "Navegacion principal",
+      "COMPONENTS": "Componentes",
+      "MORE": "Aun Mas"
+    },
+    "nav": {
+      "DASHBOARD": "Panel",
+      "WIDGETS": "Widgets",
+      "DOCUMENTATION": "Documentaci√≥n",
+      "element": {
+        "ELEMENTS": "Elementos",
+        "BUTTON": "Boton",
+        "COLOR": "Colores",
+        "NOTIFICATION": "Notificaciones",
+        "CAROUSEL": "Carousel",
+        "SPINNER": "Indicadores",
+        "ANIMATION": "Animacion",
+        "DROPDOWN": "Desplegables",
+        "PANEL": "Paneles",
+        "PORTLET": "Portlet",
+        "GRID": "Grilla",
+        "GRID_MASONRY": "Grilla Masonry",
+        "TYPO": "Tipografia",
+        "FONT_ICON": "Iconos",
+        "WEATHER_ICON": "Iconos de clima"
+      },
+      "form": {
+        "FORM": "Formularios",
+        "STANDARD": "Standard",
+        "EXTENDED": "Extendido",
+        "VALIDATION": "Validacion"
+      },
+      "chart": {
+        "CHART": "Graficos",
+        "FLOT": "Flot",
+        "RADIAL": "Radiales"
+      },
+      "table": {
+        "TABLE": "Tablas",
+        "STANDARD": "Standard",
+        "EXTENDED": "Extendida",
+        "DATATABLE": "Datatable"
+      },
+      "map": {
+        "MAP": "Maps",
+        "GOOGLE": "Mapa Google",
+        "VECTOR": "Mapa Vectorial"
+      },
+      "extra": {
+        "EXTRA": "Extras",
+        "MAILBOX": "Email",
+        "TIMELINE": "Linea de Tiempo",
+        "CALENDAR": "Calendario",
+        "INVOICE": "Factura",
+        "SEARCH": "Busqueda",
+        "TODO": "Lista Todo",
+        "PROFILE": "Perfil"
+      },
+      "pages": {
+        "PAGES": "Paginas",
+        "LOGIN": "Ingreso",
+        "REGISTER": "Registro",
+        "RECOVER": "Recuperar contrase√±a",
+        "LOCK": "Bloqueo",
+        "STARTER": "Plantilla en blanco"
+      }
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"/file-digest://app/assets/i18n/site-es.json;TTF:charsetI"
+utf-8;F:digest"%ÿ}jvqÛ¨ÚTüÙºBªl<6î¯®QÎœ7ö JfôJ,:lengthik:dependencies_digest"%≠ËÚ√\åõ"µf
+/ìÍÏØ‡E/hΩp@v›|Bò∞9:idI"Ed639e9619fbc4017a3dd45e9676c24201111289a306dc0fa9815eea22dd1a555;F:
+mtimel+[håY
