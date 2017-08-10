@@ -423,3 +423,33 @@ Processing by ApiController#i18n as JSON
 Completed 200 OK in 3ms (Views: 3.2ms)
 
 
+Started GET "/dashboard/dashboard_v1" for 75.177.177.82 at 2017-08-10 14:29:35 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#dashboard_v1 as HTML
+  Rendering dashboard/dashboard_v1.html.erb within layouts/application
+  Rendered dashboard/dashboard_v1.html.erb within layouts/application (27.4ms)
+  Rendered layouts/partials/_topnavbar.html.erb (3.6ms) [cache miss]
+  Rendered layouts/partials/_sidebar.html.erb (4.7ms) [cache miss]
+  Rendered layouts/partials/_offsidebar.html.erb (15.7ms) [cache miss]
+  Rendered layouts/partials/_footer.html.erb (0.4ms) [cache miss]
+Completed 200 OK in 291ms (Views: 288.3ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:29:36 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.4ms)
+Completed 200 OK in 4ms (Views: 3.5ms)
+
+
+Started GET "/api/i18n/site-en.json" for 75.177.177.82 at 2017-08-10 14:29:36 +0000
+Cannot render console from 75.177.177.82! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApiController#i18n as JSON
+  Parameters: {"locale"=>"site-en"}
+  Rendering app/assets/i18n/site-en.json
+  Rendered app/assets/i18n/site-en.json (0.6ms)
+Completed 200 OK in 5ms (Views: 4.5ms)
+
+
